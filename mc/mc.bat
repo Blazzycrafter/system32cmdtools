@@ -1,3 +1,3 @@
 @echo off
-start explorer.exe C:\Users\kaikn\AppData\Roaming\.minecraft
+start explorer.exe %appdata%\.minecraft
 exit
